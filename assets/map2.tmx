@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="15" height="15" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
+ <editorsettings>
+  <export target="map2.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" name="dungeon_tileset_pack" tilewidth="32" tileheight="32" tilecount="64" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="2">
+   <image width="32" height="32" source="map_tiles/floortileset-1.png"/>
+  </tile>
+  <tile id="3">
+   <image width="32" height="32" source="map_tiles/floortileset-2.png.png"/>
+  </tile>
+  <tile id="4">
+   <image width="32" height="32" source="map_tiles/floortileset-3.png.png"/>
+  </tile>
+  <tile id="5">
+   <image width="32" height="32" source="map_tiles/floortileset-4.png.png"/>
+  </tile>
+  <tile id="6">
+   <image width="32" height="32" source="map_tiles/floortileset-5.png.png"/>
+  </tile>
+  <tile id="7">
+   <image width="32" height="32" source="map_tiles/floortileset-6.png.png"/>
+  </tile>
+  <tile id="8">
+   <image width="32" height="32" source="map_tiles/floortileset-7.png.png"/>
+  </tile>
+  <tile id="9">
+   <image width="32" height="32" source="map_tiles/floortileset-8.png.png"/>
+  </tile>
+  <tile id="10">
+   <image width="32" height="32" source="map_tiles/floortileset-9.png.png"/>
+  </tile>
+  <tile id="11">
+   <image width="32" height="32" source="map_tiles/floortileset-10.png.png"/>
+  </tile>
+  <tile id="12">
+   <image width="32" height="32" source="map_tiles/floortileset-11.png.png"/>
+  </tile>
+  <tile id="13">
+   <image width="32" height="32" source="map_tiles/floortileset-12.png.png"/>
+  </tile>
+  <tile id="14">
+   <image width="32" height="32" source="map_tiles/floortileset-13.png.png"/>
+  </tile>
+  <tile id="15">
+   <image width="32" height="32" source="map_tiles/floortileset-14.png.png"/>
+  </tile>
+  <tile id="16">
+   <image width="32" height="32" source="map_tiles/floortileset-15.png.png"/>
+  </tile>
+  <tile id="17">
+   <image width="32" height="32" source="map_tiles/floortileset-16.png.png"/>
+  </tile>
+  <tile id="18">
+   <image width="32" height="32" source="map_tiles/floortileset-17.png.png"/>
+  </tile>
+  <tile id="19">
+   <image width="32" height="32" source="map_tiles/floortileset-18.png.png"/>
+  </tile>
+  <tile id="20">
+   <image width="32" height="32" source="map_tiles/floortileset-19.png.png"/>
+  </tile>
+  <tile id="21">
+   <image width="32" height="32" source="map_tiles/floortileset-20.png.png"/>
+  </tile>
+  <tile id="22">
+   <image width="32" height="32" source="map_tiles/floortileset-21.png.png"/>
+  </tile>
+  <tile id="23">
+   <image width="32" height="32" source="map_tiles/floortileset-22.png.png"/>
+  </tile>
+  <tile id="24">
+   <image width="32" height="32" source="map_tiles/floortileset-23.png.png"/>
+  </tile>
+  <tile id="25">
+   <image width="32" height="32" source="map_tiles/floortileset-24.png.png"/>
+  </tile>
+  <tile id="26">
+   <image width="32" height="32" source="map_tiles/floortileset-25.png.png"/>
+  </tile>
+  <tile id="27">
+   <image width="32" height="32" source="map_tiles/floortileset-26.png.png"/>
+  </tile>
+  <tile id="28">
+   <image width="32" height="32" source="map_tiles/floortileset-27.png.png"/>
+  </tile>
+  <tile id="29">
+   <image width="32" height="32" source="map_tiles/floortileset-28.png.png"/>
+  </tile>
+  <tile id="30">
+   <image width="32" height="32" source="map_tiles/floortileset-29.png.png"/>
+  </tile>
+  <tile id="31">
+   <image width="32" height="32" source="map_tiles/floortileset-30.png.png"/>
+  </tile>
+  <tile id="32">
+   <image width="32" height="32" source="map_tiles/floortileset-31.png.png"/>
+  </tile>
+  <tile id="33">
+   <image width="32" height="32" source="map_tiles/floortileset-32.png.png"/>
+  </tile>
+  <tile id="34">
+   <image width="32" height="32" source="map_tiles/floortileset-33.png.png"/>
+  </tile>
+  <tile id="35">
+   <image width="32" height="32" source="map_tiles/floortileset-34.png.png"/>
+  </tile>
+  <tile id="36">
+   <image width="32" height="32" source="map_tiles/floortileset-35.png.png"/>
+  </tile>
+  <tile id="37">
+   <image width="32" height="32" source="map_tiles/floortileset-36.png.png"/>
+  </tile>
+  <tile id="38">
+   <image width="32" height="32" source="map_tiles/floortileset-37.png.png"/>
+  </tile>
+  <tile id="39">
+   <image width="32" height="32" source="map_tiles/floortileset-38.png.png"/>
+  </tile>
+  <tile id="40">
+   <image width="32" height="32" source="map_tiles/floortileset-39.png.png"/>
+  </tile>
+  <tile id="41">
+   <image width="32" height="32" source="map_tiles/floortileset-40.png.png"/>
+  </tile>
+  <tile id="42">
+   <image width="32" height="32" source="map_tiles/floortileset-41.png.png"/>
+  </tile>
+  <tile id="43">
+   <image width="32" height="32" source="map_tiles/floortileset-42.png.png"/>
+  </tile>
+  <tile id="44">
+   <image width="32" height="32" source="map_tiles/floortileset-43.png.png"/>
+  </tile>
+  <tile id="45">
+   <image width="32" height="32" source="map_tiles/floortileset-44.png.png"/>
+  </tile>
+  <tile id="46">
+   <image width="32" height="32" source="map_tiles/floortileset-45.png.png"/>
+  </tile>
+  <tile id="47">
+   <image width="32" height="32" source="map_tiles/floortileset-46.png.png"/>
+  </tile>
+  <tile id="48">
+   <image width="32" height="32" source="map_tiles/floortileset-47.png.png"/>
+  </tile>
+  <tile id="49">
+   <image width="32" height="32" source="map_tiles/floortileset-48.png.png"/>
+  </tile>
+  <tile id="50">
+   <image width="32" height="32" source="map_tiles/floortileset-49.png.png"/>
+  </tile>
+  <tile id="51">
+   <image width="32" height="32" source="map_tiles/floortileset-50.png.png"/>
+  </tile>
+  <tile id="52">
+   <image width="32" height="32" source="map_tiles/floortileset-51.png.png"/>
+  </tile>
+  <tile id="53">
+   <image width="32" height="32" source="map_tiles/floortileset-52.png.png"/>
+  </tile>
+  <tile id="54">
+   <image width="32" height="32" source="map_tiles/floortileset-53.png.png"/>
+  </tile>
+  <tile id="55">
+   <image width="32" height="32" source="map_tiles/floortileset-54.png.png"/>
+  </tile>
+  <tile id="56">
+   <image width="32" height="32" source="map_tiles/floortileset-55.png.png"/>
+  </tile>
+  <tile id="57">
+   <image width="32" height="32" source="map_tiles/floortileset-56.png.png"/>
+  </tile>
+  <tile id="58">
+   <image width="32" height="32" source="map_tiles/floortileset-57.png.png"/>
+  </tile>
+  <tile id="59">
+   <image width="32" height="32" source="map_tiles/floortileset-58.png.png"/>
+  </tile>
+  <tile id="60">
+   <image width="32" height="32" source="map_tiles/floortileset-59.png.png"/>
+  </tile>
+  <tile id="61">
+   <image width="32" height="32" source="map_tiles/floortileset-60.png.png"/>
+  </tile>
+  <tile id="62">
+   <image width="32" height="32" source="map_tiles/floortileset-61.png.png"/>
+  </tile>
+  <tile id="63">
+   <image width="32" height="32" source="map_tiles/floortileset-62.png.png"/>
+  </tile>
+  <tile id="64">
+   <image width="32" height="32" source="map_tiles/floortileset-63.png.png"/>
+  </tile>
+  <tile id="65">
+   <image width="32" height="32" source="map_tiles/floortileset-64.png.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="floor_layer" width="15" height="15">
+  <data encoding="base64">
+   GwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAAAAAAAAAAAAAAAAAGwAAABsAAAAAAAAAGwAAABsAAAAbAAAAAAAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAAAAAAGwAAABsAAAAAAAAAGwAAABsAAAAbAAAAAAAAAAAAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAAAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAAAAAAAAAAAAAAAAAABsAAAAbAAAAGwAAABsAAAAAAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAAAAAABsAAAAbAAAAGwAAABsAAAAAAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAAAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAAAAAAAAbAAAAGwAAABsAAAAbAAAAGwAAAAAAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAAAAAAAAAAAAAGwAAABsAAAAbAAAAGwAAAAAAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAAAAAAAAAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAABsAAAAbAAAAGwAAAAAAAAAbAAAAGwAAABsAAAAbAAAA
+  </data>
+ </layer>
+ <layer id="2" name="wall_layer" width="15" height="15">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJwAAACcAAAAnAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAJwAAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACcAAAAnAAAAJwAAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACcAAAAnAAAAJwAAACcAAAAnAAAAJwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAkAAAAAAAAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+ <layer id="3" name="pushable_layer" width="15" height="15">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+  </data>
+ </layer>
+</map>
